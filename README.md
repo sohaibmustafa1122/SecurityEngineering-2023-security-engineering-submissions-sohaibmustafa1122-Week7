@@ -93,7 +93,7 @@ NIS2 benefits society by setting a higher cybersecurity standard, reducing the l
 1. Traficom. (2024). NIS2 European Union Cybersecurity Directive. Retrieved from https://www.kyberturvallisuuskeskus.fi/en/our-activities/regulation-and-supervision/nis2-european-union-cybersecurity-directive
 
 
-## Task 4: Showcase
+## Task 5: Showcase
 
 Tool: Velociraptor
 
